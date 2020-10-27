@@ -1,5 +1,5 @@
 # Neural Datalog Through Time
-Source code for [Neural Datalog Through Time: Informed Temporal Modeling via Logical Specification (ICML 2020)](http://www.cs.jhu.edu/~hmei/). 
+Source code for [Neural Datalog Through Time: Informed Temporal Modeling via Logical Specification (ICML 2020)](https://arxiv.org/abs/2006.16723). 
 
 ## Reference
 If you use this code as part of any published research, please acknowledge the following paper (it encourages researchers who publish their code!):
